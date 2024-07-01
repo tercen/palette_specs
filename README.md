@@ -41,6 +41,8 @@ Example:
 ### Sequential
 
 * Jet
+* Reds
+* Greys
 * Spectral
 * viridis
 * GnBu
@@ -57,13 +59,11 @@ Example:
 * RdBu
 * PiYGn
 * coolwarm
-* bwr
 
 ### Categorical
 
 * Tercen1 (Palette-1)
 * Tercen2 (Palette-2)
-* HashPalette
 * Accent
 * Dark
 * Set1
@@ -71,3 +71,7 @@ Example:
 * Set3
 * tab10
 * tab20
+
+### Special palettes
+
+* HashPalette
